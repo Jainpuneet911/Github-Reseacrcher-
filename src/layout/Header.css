@@ -1,0 +1,5 @@
+/* Custom CSS to add space between the brand and right-aligned buttons */
+.spacer {
+    flex: 1;
+  }
+  
